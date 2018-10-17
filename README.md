@@ -101,8 +101,10 @@ I implemented the code based on provided by udacity. I focused on the flow of ar
 ## Project Result
 
 1) DataSet 1
+
 ![alt text][image2]
 
 
 2) DataSet 2
+
 ![alt text][image3]
